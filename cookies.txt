@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wpenginepowered.com	TRUE	/	FALSE	1999999999	__cf_bm	JMsoT.zgUbVQH70ly8bg98O0xMm8YUrGLjOO3ekdcf8-1761333692-1.0.1.1-1GggeNbMM8v0QXkezISXmX0XvA8O5bbExJT03p1QmFklZsMHqekJh7Yfy9doNpf2gKrn7vkhMh6Ruk7b3yr8nBVuO1htSFt79CS7aQPWYh8
+educademy.wpenginepowered.com	TRUE	/	FALSE	1999999999	SameSite	None
+.www.educademy.fr	TRUE	/	FALSE	1999999999	__cf_bm	SDf4fNwEZZ5MtpjDynM5BDwVgrN0YW1ontFfun4SZmk-1761334517-1.0.1.1-gXxsTfLTHB_WceOduGp.Ce0Itp8omqyyGaAOyWIyZCIXn8ACAokiwum0z7hVNukQBn8L21UQaxejQ7toVLplJIhzCLz80QCYIvpFly6myrg
+www.educademy.fr	TRUE	/	FALSE	1999999999	SameSite	None
+
